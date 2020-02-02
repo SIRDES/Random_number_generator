@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579221387 source:c:\users\sirdes\desktop\rand_num\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
